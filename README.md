@@ -18,7 +18,9 @@ The goal of this project was to explore historical sales data and create an inte
 
 ## Dashboard Preview
 
-![Dashboard Preview](screenshots/Zrzut ekranu_20260719_185352.png)
+![Dashboard Preview](screenshots/Dashboard1.png)
+![Dashboard Preview](screenshots/Dashboard2.png)
+![Dashboard Preview](screenshots/Dashboard3.png)
 
 ---
 
